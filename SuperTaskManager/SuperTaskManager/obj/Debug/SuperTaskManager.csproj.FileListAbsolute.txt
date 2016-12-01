@@ -1,0 +1,1 @@
+C:\Code\SuperTaskManager\SuperTaskManager\SuperTaskManager\bin\Debug\SuperTaskManager.exe.config

@@ -1,0 +1,35 @@
+﻿正在安装程序集“C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.exe”。
+受影响的参数是:
+   assemblypath = C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.exe
+   logfile = C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.InstallLog
+正在安装服务 Super.ServiceTest...
+已成功安装服务 Super.ServiceTest。
+正在日志 Application 中创建 EventLog 源 Super.ServiceTest...
+查看日志文件的内容以获得 C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.exe 程序集的进度。
+该文件位于 C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.InstallLog。
+正在提交程序集“C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.InstallLog
+   assemblypath = C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.exe
+正在卸载程序集“C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.exe”。
+受影响的参数是:
+   assemblypath = C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.exe
+   logfile = C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.InstallLog
+正在移除 EventLog 源 Super.ServiceTest。
+正在从系统中移除服务 Super.ServiceTest...
+已成功地从系统中移除服务 Super.ServiceTest。
+正在安装程序集“C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.exe”。
+受影响的参数是:
+   assemblypath = C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.exe
+   logfile = C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.InstallLog
+正在安装服务 Super.ServiceTest...
+已成功安装服务 Super.ServiceTest。
+正在日志 Application 中创建 EventLog 源 Super.ServiceTest...
+查看日志文件的内容以获得 C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.exe 程序集的进度。
+该文件位于 C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.InstallLog。
+正在提交程序集“C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.exe”。
+受影响的参数是:
+   logtoconsole = 
+   logfile = C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.InstallLog
+   assemblypath = C:\Code\SuperTaskManager\SuperTaskManager\Super.Service.Switch\bin\Debug\Super.Service.WinServer.exe
